@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+matchups.db
+
+# IDE files
+.idea/
+.vscode/
